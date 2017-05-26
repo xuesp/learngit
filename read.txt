@@ -1,3 +1,5 @@
 git is control
 
 first
+
+Git is free software distributed under the GPL.
