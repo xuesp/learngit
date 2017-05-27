@@ -9,4 +9,4 @@ Git tracks changes files
 stupid
 123
 456
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
